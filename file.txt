@@ -1,1 +1,4 @@
-this will cause a conflict
+this is different from the other file
+
+
+here is some more text
